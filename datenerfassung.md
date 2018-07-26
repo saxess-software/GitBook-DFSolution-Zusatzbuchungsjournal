@@ -38,7 +38,7 @@ Nutzen Sie für die Erfassung der Daten in den Feldern **KostenstellenID **und *
 
 ![](/Pictures/Datenerfassung/XLS_Buchung erfassen_2.png)
 
-Gehen Sie bei der Erfassung der Gegenbuchung auf die gleich Weise vor und pflegen Sie das Feld **Haben**. Das **Kontrollfeld **zeigt Ihnen an, ob die zur Buchungsnummer erfassen Datensätze einen Saldo von null ausweisen.
+Gehen Sie bei der Erfassung der Gegenbuchung auf die gleich Weise vor und pflegen Sie das Feld **Haben**. Das **Kontrollfeld **zeigt Ihnen an, ob die zur Buchungsnummer erfassten Datensätze einen Saldo von null ausweisen.
 
 ![](/Pictures/Datenerfassung/XLS_Buchung erfassen_3.png)
 
