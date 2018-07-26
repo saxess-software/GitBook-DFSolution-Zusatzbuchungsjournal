@@ -1,6 +1,6 @@
 
 
-![Logo](Pictures/Introduction/DF_Logo_Dunkel.png)
+![Logo](Pictures/Introduction/Logo_DataFactory_3000x1188.png)
 
 # Zusatzbuchungsjournal 
 
