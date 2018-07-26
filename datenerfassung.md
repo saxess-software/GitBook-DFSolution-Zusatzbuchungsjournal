@@ -26,7 +26,7 @@ Wählen Sie über die **DropDown-Funktion** das Jahr, den Monat und den Freigabe
 
 ![](/Pictures/Datenerfassung/Web_Neues Product_3.png)
 
-### Erfassung eines Buchungssatzes
+### Erfassung eines Buchungssatzes und Plausibilitätsprüfung
 
 #### Im Excel-Client
 
