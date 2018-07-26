@@ -46,7 +46,5 @@ Gehen Sie bei der Erfassung der Gegenbuchung auf die gleich Weise vor und pflege
 
 Über das Feld **Status **auf Product-Ebene können Sie an einem Buchungsjournal hinterlegen, ob dieses Aktiv oder Passiv ist. Über das Feld **Freigabe **kann der Bearbeiter eines Buchungsjournals vermerken, ob sich dieses gerade in Bearbeitung befindet, freigegeben ist oder keine Freigabe erhalten hat. Über dieses Feld können Sie bspw. den Bearbeitungs-Workflow steuern.
 
-
-
-
+![](/Pictures/Datenerfassung/XLS_Stati verwalten_1.png)
 
