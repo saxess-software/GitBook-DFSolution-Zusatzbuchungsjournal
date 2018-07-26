@@ -1,6 +1,8 @@
 ![Logo](Pictures/Introduction/Logo_DataFactory_3000x1188.png)
 
-# Anwenderhandbuch für die Zusatzbuchungsjournal-Solution
+# Anwenderhandbuch für die 
+
+# Zusatzbuchungsjournal-Solution
 
 # mit SX DataFactory
 
