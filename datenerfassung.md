@@ -28,31 +28,17 @@ Wählen Sie über die **DropDown-Funktion** das Jahr, den Monat und den Freigabe
 
 ### Erfassung eines Buchungssatzes
 
-
-
 #### Im Excel-Client
 
 Erfassen Sie die Werte in den Feldern **Buchungsnummer**, **Buchungstext **und **Soll. **Das **Kontrollfeld **zeigt Ihnen zunächst eine Warnung an, da die Gegenbuchung noch nicht erfasst wurde und damit der Saldo nicht null beträgt.
 
+![](/Pictures/Datenerfassung/XLS_Buchung erfassen_1.png)
 
+Nutzen Sie für die Erfassung der Daten in den Feldern **KostenstellenID **und **SachkontenID** die Flex-Option **FlexSuche**.
 
-
-
-Nutzen Sie für die Erfassung der Daten in den Feldern **KostenstellenID **und **SachkontenID** die Flex-Option **FlexSuche**. 
-
-
-
-
+![](/Pictures/Datenerfassung/XLS_Buchung erfassen_2.png)
 
 Gehen Sie bei der Erfassung der Gegenbuchung auf die gleich Weise vor und pflegen Sie das Feld **Haben**. Das **Kontrollfeld **zeigt Ihnen an, ob die zur Buchungsnummer erfassen Datensätze einen Saldo von null ausweisen.
 
-
-
-
-
-
-
-
-
-
+![](/Pictures/Datenerfassung/XLS_Buchung erfassen_3.png)
 
