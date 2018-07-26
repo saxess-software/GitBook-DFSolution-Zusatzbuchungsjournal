@@ -1,10 +1,10 @@
 ![Logo](Pictures/Introduction/Logo_DataFactory_3000x1188.png)
 
-# Anwenderhandbuch für die 
+# 
 
-# Zusatzbuchungsjournal-Solution
+# Anwenderhandbuch 
 
-# mit SX DataFactory
+## Zusatzbuchungsjournal-Solution mit SX DataFactory
 
 Die Zusatzbuchungsjournal-Solutionvon SX DataFactory ermöglicht es Ihnen Buchungen zu erfassen, für die noch keine Belege vorliegen. Auf diese Weise können im Controlling und in der Unternehmensplanung Sachverhalte einkalkuliert werden, die noch nicht in der Finanzbuchhaltung enthalten sind, weil sie sich im Prozess befinden. Beispiele hierfür sind abweichende Abschreibungswerte oder erwartete Lieferantenboni als auch Abgrenzungen für den Ausweis einer zweiten Rechnungs-legungsebene \(IFRS/HGB\).
 
