@@ -1,5 +1,7 @@
 
 
+![Logo](Pictures/Introduction/DF_Logo_Dunkel.png)
+
 # Zusatzbuchungsjournal 
 
 ## mit SX DataFactory
