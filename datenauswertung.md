@@ -8,19 +8,39 @@ Die Startseite gibt Ihnen einen Überblick über die in der Reportingmappe vorha
 
 Zur Aktualisierung der Daten in der Reportingmappe klicken Sie auf den Button **Daten aktualisieren**.
 
-
+![](/Pictures/Datenauswertung/XLS_Report_2.png)
 
 Um direkt in die Reportingseite zu springen, klicken Sie auf den Link **Report**.
 
-
+![](/Pictures/Datenauswertung/XLS_Report_1.png)
 
 #### Die Report-Seite
 
+Die **Pivot-Tabelle** zeigt Ihnen in aggregierter Form Ihre Daten an. Wie aus Excel gewohnt können Sie die Datenfelder erweitern, um sich eine detaillierte Sicht der Ergebnisse anzeigen zu lassen.
 
+![](/Pictures/Datenauswertung/XLS_Report_5.png)
+
+Über die **Datenschnitte** können Sie die in der Pivot-Tabelle angezeigten Daten weiter filtern.
+
+![](/Pictures/Datenauswertung/XLS_Report_3.png)
+
+Über den **Pivot-Tabellenfilter** können Sie im erscheinenden Kontextmenü Ihre Ergebnisanzeige weiter einschränken.
+
+![](/Pictures/Datenauswertung/XLS_Report_4.png)
 
 #### Navigation
 
+Nutzen Sie die **Navigationspfeile**, um sich zwischen den einzelnen Seiten zu bewegen  oder klicken Sie auf den Button **Startseite**, um zu Startseite zurückzugelangen.
+
+![](/Pictures/Datenauswertung/XLS_Report_6.png)
+
 ### Auswertung mithilfe einer WebPivot
 
+Über die FactoryTabs können Sie sich Ihre Daten in einer WebPivot anzeigen lassen.
 
+Die **Pivot-Tabelle** zeigt Ihnen in aggregierter Form Ihre Daten an.Sie können die Datenfelder erweitern, um sich eine detaillierte Sicht der Ergebnisse anzeigen zu lassen.
+
+
+
+Über den **Pivot-Tabellenfilter** können Sie im erscheinenden Kontextmenü Ihre Ergebnisanzeige weiter einschränken.
 
