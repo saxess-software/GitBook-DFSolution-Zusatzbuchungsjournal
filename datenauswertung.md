@@ -18,19 +18,15 @@ Um direkt in die Reportingseite zu springen, klicken Sie auf den Link **Report**
 
 Die **Pivot-Tabelle** zeigt Ihnen in aggregierter Form Ihre Daten an. Wie aus Excel gewohnt können Sie die Datenfelder erweitern, um sich eine detaillierte Sicht der Ergebnisse anzeigen zu lassen.
 
-
-
-
+![](/Pictures/Datenauswertung/XLS_Report_5.png)
 
 Über die **Datenschnitte** können Sie die in der Pivot-Tabelle angezeigten Daten weiter filtern.
 
-
-
-
+![](/Pictures/Datenauswertung/XLS_Report_3.png)
 
 Über den **Pivot-Tabellenfilter** können Sie im erscheinenden Kontextmenü Ihre Ergebnisanzeige weiter einschränken.
 
-
+![](/Pictures/Datenauswertung/XLS_Report_4.png)
 
 #### Navigation
 
