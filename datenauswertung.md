@@ -30,6 +30,10 @@ Die **Pivot-Tabelle** zeigt Ihnen in aggregierter Form Ihre Daten an. Wie aus Ex
 
 #### Navigation
 
+Nutzen Sie die **Navigationspfeile**, um sich zwischen den einzelnen Seiten zu bewegen  oder klicken Sie auf den Button **Startseite**, um zu Startseite zurückzugelangen.
+
+![](/Pictures/Datenauswertung/XLS_Report_6.png)
+
 ### Auswertung mithilfe einer WebPivot
 
 
