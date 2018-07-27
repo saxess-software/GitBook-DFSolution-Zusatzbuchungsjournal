@@ -36,5 +36,11 @@ Nutzen Sie die **Navigationspfeile**, um sich zwischen den einzelnen Seiten zu b
 
 ### Auswertung mithilfe einer WebPivot
 
+Über die FactoryTabs können Sie sich Ihre Daten in einer WebPivot anzeigen lassen.
 
+Die **Pivot-Tabelle** zeigt Ihnen in aggregierter Form Ihre Daten an.Sie können die Datenfelder erweitern, um sich eine detaillierte Sicht der Ergebnisse anzeigen zu lassen.
+
+
+
+Über den **Pivot-Tabellenfilter** können Sie im erscheinenden Kontextmenü Ihre Ergebnisanzeige weiter einschränken.
 
