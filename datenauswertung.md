@@ -40,7 +40,9 @@ Nutzen Sie die **Navigationspfeile**, um sich zwischen den einzelnen Seiten zu b
 
 Die **Pivot-Tabelle** zeigt Ihnen in aggregierter Form Ihre Daten an.Sie können die Datenfelder erweitern, um sich eine detaillierte Sicht der Ergebnisse anzeigen zu lassen.
 
-
+![](/Pictures/Datenauswertung/Web_Report_1.png)
 
 Über den **Pivot-Tabellenfilter** können Sie im erscheinenden Kontextmenü Ihre Ergebnisanzeige weiter einschränken.
+
+![](/Pictures/Datenauswertung/Web_Report_2.png)
 
